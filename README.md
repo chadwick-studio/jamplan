@@ -1,2 +1,4 @@
 # Jam Plan
-The booking app made by bookers.
+A booker and a musician walk into a bar.
+
+They both use Jam Plan!
